@@ -1,7 +1,7 @@
 # Logistics Regression
 The program takes in `bezdekIris.data` data and learns a model that outputs 3 seperate probabilities for each label given a feature vector.
 
-More info about the dataset can be found at (Iris)[https://archive.ics.uci.edu/dataset/53/iris]
+More info about the dataset can be found at [Iris](https://archive.ics.uci.edu/dataset/53/iris)
 
 ## Specifics
 The code is very messy but simply uses gradient acent of a log likelihood function covering all 3 probability functions.
